@@ -1,23 +1,23 @@
 # 🧮 Java Mini Calculator
 
-Bu proje, temel aritmetik işlemleri gerçekleştiren basit bir Java hesap makinesi uygulamasıdır. Toplama, çıkarma, çarpma ve bölme işlemlerini destekler. Java'nın temel özelliklerini öğrenmek veya tekrar etmek isteyenler için ideal bir mini projedir.
+This project is a simple calculator application built with Java. It supports basic arithmetic operations such as addition, subtraction, multiplication, and division. It's a great mini project for beginners who want to learn or practice Java fundamentals.
 
-## ✨ Özellikler
+## ✨ Features
 
-- ✅ Kullanıcı dostu arayüz (GUI)
-- ➕ Toplama
-- ➖ Çıkarma
-- ✖️ Çarpma
-- ➗ Bölme
-- ⚠️ Hatalı girişlere karşı basit kontrol mekanizmaları
+- ✅ Simple and clean user interface (GUI)
+- ➕ Addition
+- ➖ Subtraction
+- ✖️ Multiplication
+- ➗ Division
+- ⚠️ Basic error handling for invalid inputs
 
-## 🛠️ Kullanılan Teknolojiler
+## 🛠️ Technologies Used
 
-- Java (JDK 8+)
-- Java Swing (GUI için)
+- Java (JDK 8 or higher)
+- Java Swing (for the graphical user interface)
 
-## 🚀 Kurulum ve Çalıştırma
+## 🚀 How to Run
 
-1. Bu repoyu klonlayın:
+1. Clone the repository:
    ```bash
-   git clone https://github.com/kullaniciadi/java-mini-calculator.git
+   git clone https://github.com/yourusername/java-mini-calculator.git
